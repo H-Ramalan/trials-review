@@ -1,6 +1,6 @@
 # trials-review
 
-  <h3><b>Portfolio Mobile First Project</b></h3>
+  <h3><b></b></h3>
 
 # 📗 Table of Contents
 
