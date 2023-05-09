@@ -19,9 +19,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Portfolio Mobile First] <a name="about-project"></a>
+# 📖 [] <a name="about-project"></a>
 
-**[Portfolio Mobile First]** is a mobile-first version of my portfolio project. It will showcase my skills in HTML and CSS and also shows the usage of new concepts of CSS which includes the use of flex-box and css-gridbox.
+**[]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -37,7 +37,7 @@
 
 ## Web Hint
 
-### [Stylelint](https://stylelint.io/)
+### []
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -48,8 +48,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
--
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,11 +67,7 @@
 
 - **[What is the project about?]**
 
-  -
-
 - **[Will there be additional features?]**
-
-  -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
